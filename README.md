@@ -5,7 +5,6 @@ I'm a Master's student in **Computer Science**.
 - Hardware/Software Co-design
 - Digital Hardware Design
 - Embedded Systems & SoC Design
-- FPGA-based Acceleration
 
 ### 🔬 Current Research
 My research focuses on **LLM inference on AMD Zynq SoCs**, exploring hardware/software co-design for efficient inference.
