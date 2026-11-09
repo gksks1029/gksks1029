@@ -1,6 +1,4 @@
 
-## Hi there! 👋
-
 I'm a Master's student in **Computer Science**.
 
 ### 🔍 Research Interests
